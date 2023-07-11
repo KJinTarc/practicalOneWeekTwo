@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practicalOneWeekTwo</string>
+    <string name="rollTest">Press roll to roll</string>
+    <string name="rollBtnText">Roll</string>
+</resources>
